@@ -13,3 +13,4 @@ _This hands-on lab is available on our [https://www.datastax.com/learn/data-mode
 
 [![Open in KataPod](https://github.com/DataStax-Academy/katapod-shared-assets/blob/main/images/open-in-katapod.png)](https://gitpod.io/#https://github.com/DataStax-Academy/data-modeling-sensor-data/)
 
+[![Open in KataPod](https://github.com/DataStax-Academy/katapod-shared-assets/blob/main/images/open-in-katapod.png)](https://gitpod.io/#https://github.com/crystalloide/data-modeling-sensor-data)
