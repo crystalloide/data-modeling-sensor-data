@@ -1,15 +1,16 @@
-# Sensor Data Modeling
+# Modélisation des données de capteur
 
-## Learn how to create a data model for temperature monitoring sensor networks
+## Apprenez à créer un modèle de données pour les réseaux de capteurs de surveillance de la température
 
-**In this hands-on lab, you will:**
-* Create tables for a sensor data use case 
-* Populate tables with sample sensor data
-* Design and execute CQL queries over sensor data
+**Dans ce laboratoire pratique, vous allez :**
+* Créer des tables pour un cas d'utilisation de données de capteur
+* Remplir des tables avec des exemples de données de capteur
+* Concevoir et exécuter des requêtes CQL sur les données de capteur
 
-_This hands-on lab is available on our [https://www.datastax.com/learn/data-modeling-by-example](https://www.datastax.com/learn/data-modeling-by-example) site, where you can find many more resources to help you succeed with Apache Cassandra®._
+_Ce laboratoire pratique est disponible sur notre site [https://www.datastax.com/learn/data-modeling-by-example](https://www.datastax.com/learn/data-modeling-by-example), où vous pouvez trouver de nombreuses autres ressources pour vous aider à réussir avec Apache Cassandra®._
 
-## Start the hands-on lab:
+## Démarrez le laboratoire pratique :
+
 
 [![Open in KataPod](https://github.com/DataStax-Academy/katapod-shared-assets/blob/main/images/open-in-katapod.png)](https://gitpod.io/#https://github.com/DataStax-Academy/data-modeling-sensor-data/)
 
